@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Solver
   def factorial(num)
     num_factorial = 1
@@ -10,7 +12,7 @@ class Solver
   end
 
   def reverse(string)
-    split_str = string.downcase.chars
+    split_str = string.chars
     reverse_str = []
     split_str.each { |str| reverse_str.unshift(str) }
     reverse_str.join
