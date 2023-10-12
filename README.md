@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# School Library Management System  <a name="about-project"></a>
+# TDD Project <a name="about-project"></a>
 
-The **School Library Management System** is a is a Ruby-built app that revolutionizes library management by making it easy to catalog, track, and lend books to students and teachers.
+The **TDD Project** is a is a Ruby-built app that revolutionizes library management by making it easy to catalog, track, and lend books to students and teachers.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -74,7 +74,7 @@ In order to run this project you need:
 Clone this repository to your desired folder by using this 👇️ command :
 
 ```
-git clone https://github.com/katarighe/school-library.git
+git clone https://github.com/katarighe/TDD-Project.git
 ```
 
 ### Install
@@ -82,7 +82,7 @@ git clone https://github.com/katarighe/school-library.git
 Go to the project directory:
 
 ```
- cd school-library
+ cd TDD-Project
 ```
 
 Before to run the program, verify that you have Ruby installed on your OS running the following command:
@@ -100,7 +100,7 @@ It should show you the version of Ruby ​​installed. If this does not happen 
 To run the project, execute the following command:
 
 ```
-ruby main.rb
+ruby solver.rb
 ```
 
 ### Run tests
@@ -134,12 +134,11 @@ ruby main.rb
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Here are some future features that could be added to the School Library Management System in the future.
+> Here are some future features that could be added to the TDD Project in the future.
 
 - **Integration with other educational tools:** SLMS can be integrated with other educational tools, such as learning management systems (LMS) and electronic textbooks, to provide a more seamless learning experience for students.
-- **Support for multiple languages and cultures:** SLMS can be made more inclusive by supporting multiple languages and cultures. This would allow students from all backgrounds to access and benefit from the resources that the library has to offer.
 
-These are just a few ideas for future features that could be added to the School Library Management System module. The specific features that are added will depend on the needs and wants of the users.
+These are just a few ideas for future features that could be added to the TDD Project module. The specific features that are added will depend on the needs and wants of the users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
