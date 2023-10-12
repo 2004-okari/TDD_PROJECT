@@ -19,6 +19,10 @@ RSpec.describe Solver do
       expect { solver.factorial(-3) }.to raise_error(ArgumentError, "Factorial of negative number can't be calculated")
     end
   end
+end
+
+RSpec.describe Solver do
+  let(:solver) { Solver.new }
 
   describe '#reverse' do
     it 'reverses the string "hello"' do
@@ -29,6 +33,10 @@ RSpec.describe Solver do
       expect(solver.reverse('Ruby')).to eq('ybuR')
     end
   end
+end
+
+RSpec.describe Solver do
+  let(:solver) { Solver.new }
 
   describe '#fizzbuzz' do
     it 'returns "fizz" for 3' do
