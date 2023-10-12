@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Solver class contains methods for various problem-solving tasks.
 class Solver
   def factorial(num)
