@@ -16,9 +16,7 @@ RSpec.describe Solver do
     end
 
     it 'raises an exception for a negative number' do
-      expect do
-        solver.factorial(-3)
-      end.to raise_error(ArgumentError, "Factorial of negative number can't be calculated")
+      expect { solver.factorial(-3) }.to raise_error(ArgumentError, "Factorial of negative number can't be calculated")
     end
   end
 

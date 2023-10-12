@@ -1,15 +1,14 @@
 # frozen_string_literal: true
 
+# Solver class contains methods for various problem-solving tasks.
 class Solver
   def factorial(num)
-  if num.negative?
-    raise ArgumentError, "Factorial of negative number can't be calculated"
-  else
+    raise ArgumentError, "Factorial of negative number can't be calculated" if num.negative?
+
     num_factorial = 1
     (1..num).each { |p| num_factorial *= p }
     num_factorial
   end
-end
 
   def reverse(string)
     split_str = string.chars
