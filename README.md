@@ -26,7 +26,7 @@
 
 # TDD Project <a name="about-project"></a>
 
-The **TDD Project** is a is a Ruby-built app that revolutionizes library management by making it easy to catalog, track, and lend books to students and teachers.
+The **TDD Project** is a Ruby project that implements a class with methods via test-driven development (TDD) practice.
 
 ## 🛠 Built With <a name="built-with"></a>
 
