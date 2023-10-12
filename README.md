@@ -74,7 +74,7 @@ In order to run this project you need:
 Clone this repository to your desired folder by using this 👇️ command :
 
 ```
-git clone https://github.com/katarighe/TDD-Project.git
+git clone https://github.com/2004-okari/TDD_PROJECT.git
 ```
 
 ### Install
@@ -82,7 +82,7 @@ git clone https://github.com/katarighe/TDD-Project.git
 Go to the project directory:
 
 ```
- cd TDD-Project
+ cd TDD_PROJECT
 ```
 
 Before to run the program, verify that you have Ruby installed on your OS running the following command:
@@ -117,16 +117,16 @@ ruby solver.rb
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Okari Nyandika**
+
+- GitHub: [@2004-okari](https://github.com/2004-okari)
+- LinkedIn: [@rooney-okari](https://www.linkedin.com/in/rooney-okari-86a5ba250/)
+
 👤 **Mohamed Aden Ighe**
 
 - GitHub: [@katarighe](https://github.com/katarighe)
 - Twitter: [@katarighe](https://twitter.com/katarighe)
 - LinkedIn: [@mighe](https://linkedin.com/in/mighe)
-
-👤 **Okari Nyandika**
-
-- GitHub: [@2004-okari](https://github.com/2004-okari)
-- LinkedIn: [@rooney-okari](https://www.linkedin.com/in/rooney-okari-86a5ba250/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
